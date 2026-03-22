@@ -45,7 +45,11 @@ It behaves like a strict but helpful interviewer from a top tech company. This i
 ---
 
 ## 📸 Screenshots
-*(Add your screenshots here for the landing page and the 3-panel interview dashboard)*
+<img width="1862" height="851" alt="image" src="https://github.com/user-attachments/assets/bff4e3f1-7f3e-43c4-8a82-e32ac4bcac21" />
+<img width="1917" height="847" alt="image" src="https://github.com/user-attachments/assets/82d371ce-ce30-4b64-891d-5d862ecf6907" />
+
+
+
 
 ---
 
